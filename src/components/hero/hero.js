@@ -7,7 +7,7 @@ const Hero = () => {
         <div className="hero-main">Title here</div>
         <div className="hero-sub">sub here</div>
       </div>
-      <div>Buy now</div>
+      <button className="buy-now-button">Buy Now</button>
     </div>
   );
 };
